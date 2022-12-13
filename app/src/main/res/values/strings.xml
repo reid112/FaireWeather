@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Faire Weather</string>
+    <string name="label_unknown_location">Unknown</string>
+    <string name="content_description_weather_icon">%1$s weather icon</string>
+    <string name="label_current_temp">%1$d°</string>
+    <string name="label_unknown_weather">-</string>
+    <string name="label_low_high_temp">L: %1$d° H: %2$d°</string>
+    <string name="label_empty_state">There is nothing here, sorry!</string>
+</resources>
